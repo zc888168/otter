@@ -59,7 +59,7 @@
 		<!-- oracle -->
 		<dependency>
 			<groupId>com.oracle</groupId>
-			<artifactId>ojdbc6</artifactId>
+			<artifactId>ojdbc7</artifactId>
 		</dependency>
 
 		<!-- spring -->
@@ -121,11 +121,11 @@
 		</dependency>
 
 		<!-- test dependency -->
-		<dependency>
-			<groupId>org.jtester</groupId>
-			<artifactId>jtester</artifactId>
-			<scope>test</scope>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>org.jtester</groupId>-->
+<!--			<artifactId>jtester</artifactId>-->
+<!--			<scope>test</scope>-->
+<!--		</dependency>-->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
